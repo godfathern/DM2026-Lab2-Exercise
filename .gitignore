@@ -23,3 +23,8 @@ DM2026-Lab2-Master-Grading-Reference.ipynb
 # so nothing a student runs can put a session log in a public repository. Keep
 # this entry on any future sync from Lab 1.
 session_logs/
+
+# Kaggle competition (Homework notebook): the private competition data and the
+# cached model predictions (~39 MB). Both stay on this machine only.
+data/kaggle/
+ensemble_cache/
